@@ -1,0 +1,80 @@
+{
+  "windows": {
+    "10": {
+      "builds": [
+		{
+          "name": "1507",
+          "build_number": "10240"
+        },
+		{
+          "name": "1511",
+          "build_number": "10586"
+        },
+		{
+          "name": "1607",
+          "build_number": "14393"
+        },
+		{
+          "name": "1703",
+          "build_number": "15063"
+        },
+		{
+          "name": "1709",
+          "build_number": "16299"
+        },
+		{
+          "name": "1803",
+          "build_number": "17134"
+        },
+		{
+          "name": "1809",
+          "build_number": "17763"
+        },
+		{
+          "name": "1903",
+          "build_number": "18362"
+        },
+		{
+          "name": "1909",
+          "build_number": "18363"
+        },
+        {
+          "name": "2004",
+          "build_number": "19041"
+        },
+        {
+          "name": "20H2",
+          "build_number": "19042"
+        },
+        {
+          "name": "21H1",
+          "build_number": "19043"
+        },
+        {
+          "name": "version 21H2",
+          "build_number": "19044"
+        },
+        {
+          "name": "22H2",
+          "build_number": "19045"
+        }
+      ]
+    },
+    "11": {
+      "major_updates": [
+        {
+          "name": "21H2",
+          "build_number": "22000"
+        },
+        {
+          "name": "22H2",
+          "build_number": "22621"
+        },
+		{
+          "name": "23H2",
+          "build_number": "22631"
+        }
+      ]
+    }
+  }
+}
