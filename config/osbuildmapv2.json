@@ -1,6 +1,5 @@
 {
-  "windows": {
-    "10": {
+  "windows10": {
       "builds": [
 		{
           "name": "1507",
@@ -60,8 +59,8 @@
         }
       ]
     },
-    "11": {
-      "major_updates": [
+    "Windows11": {
+      "builds": [
         {
           "name": "21H2",
           "build_number": "22000"
@@ -77,4 +76,3 @@
       ]
     }
   }
-}
