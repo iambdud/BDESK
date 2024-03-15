@@ -1,5 +1,5 @@
 {
-  "windows10": {
+  "Windows10": {
       "builds": [
 		{
           "name": "1507",
