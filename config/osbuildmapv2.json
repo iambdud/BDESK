@@ -4,59 +4,73 @@
       "builds": [
 		{
           "name": "1507",
-          "build_number": "10240"
+          "build_number": "10.0.10240",
+		  "ad_build_number":"10.0 (10240)"
         },
 		{
           "name": "1511",
-          "build_number": "10586"
+          "build_number": "10.0.10586",
+		  "ad_build_number":"10.0 (10586)"
         },
 		{
           "name": "1607",
-          "build_number": "14393"
+          "build_number": "10.0.14393",
+		  "ad_build_number":"10.0 (14393)"
         },
 		{
           "name": "1703",
-          "build_number": "15063"
+          "build_number": "10.0.15063",
+		  "ad_build_number":"10.0 (15063)"
         },
 		{
           "name": "1709",
-          "build_number": "16299"
+          "build_number": "10.0.16299",
+		  "ad_build_number":"10.0 (16299)"
         },
 		{
           "name": "1803",
-          "build_number": "17134"
+          "build_number": "10.0.17134",
+		  "ad_build_number":"10.0 (17134)"
         },
 		{
           "name": "1809",
-          "build_number": "17763"
+          "build_number": "10.0.17763",
+		  "ad_build_number":"10.0 (17763)"
         },
 		{
           "name": "1903",
-          "build_number": "18362"
+          "build_number": "10.0.18362",
+		  "ad_build_number":"10.0 (18362)"
         },
 		{
           "name": "1909",
-          "build_number": "18363"
+          "build_number": "10.0.18363",
+		  "ad_build_number":"10.0 (18363)"
         },
         {
           "name": "2004",
-          "build_number": "19041"
+          "build_number": "10.0.19041",
+		  "ad_build_number":"10.0 (19041)"
         },
         {
           "name": "20H2",
-          "build_number": "19042"
+          "build_number": "10.0.19042",
+		  "ad_build_number":"10.0 (19042)"
         },
         {
           "name": "21H1",
-          "build_number": "19043"
+          "build_number": "10.0.19043",
+		  "ad_build_number":"10.0 (19043)"
         },
         {
           "name": "21H2",
-          "build_number": "19044"
+          "build_number": "10.0.19044",
+		  "ad_build_number":"10.0 (19044)"
         },
         {
           "name": "22H2",
-          "build_number": "19045"
+          "build_number": "10.0.19045",
+		  "ad_build_number":"10.0 (19045)"
         }
       ]
     },
@@ -64,15 +78,41 @@
       "builds": [
         {
           "name": "21H2",
-          "build_number": "22000"
+          "build_number": "10.0.22000",
+		  "ad_build_number":"10.0 (22000)"
         },
         {
           "name": "22H2",
-          "build_number": "22621"
+          "build_number": "10.0.22621",
+		  "ad_build_number":"10.0 (22621)"
         },
 		{
           "name": "23H2",
-          "build_number": "22631"
+          "build_number": "10.0.22631",
+		  "ad_build_number":"10.0 (22631)"
+        }
+      ]
+    },
+    "Windows7": {
+      "builds": [
+        {
+          "name": "Win7 SP0",
+          "build_number": "6.1.7600",
+		  "ad_build_number":"6.1 (7600)"
+        },
+        {
+          "name": "Win7 SP1",
+          "build_number": "6.1.7601",
+		  "ad_build_number":"6.1 (7601)"
+        }
+      ]
+    },
+    "Windows8": {
+      "builds": [
+        {
+          "name": "Win8.1",
+          "build_number": "6.3.9600",
+		  "ad_build_number":"6.3 (9600)"
         }
       ]
     }
