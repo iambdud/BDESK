@@ -4,73 +4,73 @@
       "builds": [
 		{
           "name": "1507",
-          "build_number": "10.0.10240",
-		  "ad_build_number":"10.0 (10240)"
+          "buildnumber": "10.0.10240",
+		  "adbuildnumber":"10.0 (10240)"
         },
 		{
           "name": "1511",
-          "build_number": "10.0.10586",
-		  "ad_build_number":"10.0 (10586)"
+          "buildnumber": "10.0.10586",
+		  "adbuildnumber":"10.0 (10586)"
         },
 		{
           "name": "1607",
-          "build_number": "10.0.14393",
-		  "ad_build_number":"10.0 (14393)"
+          "buildnumber": "10.0.14393",
+		  "adbuildnumber":"10.0 (14393)"
         },
 		{
           "name": "1703",
-          "build_number": "10.0.15063",
-		  "ad_build_number":"10.0 (15063)"
+          "buildnumber": "10.0.15063",
+		  "adbuildnumber":"10.0 (15063)"
         },
 		{
           "name": "1709",
-          "build_number": "10.0.16299",
-		  "ad_build_number":"10.0 (16299)"
+          "buildnumber": "10.0.16299",
+		  "adbuildnumber":"10.0 (16299)"
         },
 		{
           "name": "1803",
-          "build_number": "10.0.17134",
-		  "ad_build_number":"10.0 (17134)"
+          "buildnumber": "10.0.17134",
+		  "adbuildnumber":"10.0 (17134)"
         },
 		{
           "name": "1809",
-          "build_number": "10.0.17763",
-		  "ad_build_number":"10.0 (17763)"
+          "buildnumber": "10.0.17763",
+		  "adbuildnumber":"10.0 (17763)"
         },
 		{
           "name": "1903",
-          "build_number": "10.0.18362",
-		  "ad_build_number":"10.0 (18362)"
+          "buildnumber": "10.0.18362",
+		  "adbuildnumber":"10.0 (18362)"
         },
 		{
           "name": "1909",
-          "build_number": "10.0.18363",
-		  "ad_build_number":"10.0 (18363)"
+          "buildnumber": "10.0.18363",
+		  "adbuildnumber":"10.0 (18363)"
         },
         {
           "name": "2004",
-          "build_number": "10.0.19041",
-		  "ad_build_number":"10.0 (19041)"
+          "buildnumber": "10.0.19041",
+		  "adbuildnumber":"10.0 (19041)"
         },
         {
           "name": "20H2",
-          "build_number": "10.0.19042",
-		  "ad_build_number":"10.0 (19042)"
+          "buildnumber": "10.0.19042",
+		  "adbuildnumber":"10.0 (19042)"
         },
         {
           "name": "21H1",
-          "build_number": "10.0.19043",
-		  "ad_build_number":"10.0 (19043)"
+          "buildnumber": "10.0.19043",
+		  "adbuildnumber":"10.0 (19043)"
         },
         {
           "name": "21H2",
-          "build_number": "10.0.19044",
-		  "ad_build_number":"10.0 (19044)"
+          "buildnumber": "10.0.19044",
+		  "adbuildnumber":"10.0 (19044)"
         },
         {
           "name": "22H2",
-          "build_number": "10.0.19045",
-		  "ad_build_number":"10.0 (19045)"
+          "buildnumber": "10.0.19045",
+		  "adbuildnumber":"10.0 (19045)"
         }
       ]
     },
@@ -78,18 +78,18 @@
       "builds": [
         {
           "name": "21H2",
-          "build_number": "10.0.22000",
-		  "ad_build_number":"10.0 (22000)"
+          "buildnumber": "10.0.22000",
+		  "adbuildnumber":"10.0 (22000)"
         },
         {
           "name": "22H2",
-          "build_number": "10.0.22621",
-		  "ad_build_number":"10.0 (22621)"
+          "buildnumber": "10.0.22621",
+		  "adbuildnumber":"10.0 (22621)"
         },
 		{
           "name": "23H2",
-          "build_number": "10.0.22631",
-		  "ad_build_number":"10.0 (22631)"
+          "buildnumber": "10.0.22631",
+		  "adbuildnumber":"10.0 (22631)"
         }
       ]
     },
@@ -97,13 +97,13 @@
       "builds": [
         {
           "name": "Win7 SP0",
-          "build_number": "6.1.7600",
-		  "ad_build_number":"6.1 (7600)"
+          "buildnumber": "6.1.7600",
+		  "adbuildnumber":"6.1 (7600)"
         },
         {
           "name": "Win7 SP1",
-          "build_number": "6.1.7601",
-		  "ad_build_number":"6.1 (7601)"
+          "buildnumber": "6.1.7601",
+		  "adbuildnumber":"6.1 (7601)"
         }
       ]
     },
@@ -111,8 +111,8 @@
       "builds": [
         {
           "name": "Win8.1",
-          "build_number": "6.3.9600",
-		  "ad_build_number":"6.3 (9600)"
+          "buildnumber": "6.3.9600",
+		  "adbuildnumber":"6.3 (9600)"
         }
       ]
     }
