@@ -1,0 +1,76 @@
+{
+	"Languages": [
+		{
+		  "languagecode": "1029",
+		  "language": "Czech"
+		},
+		{
+		  "languagecode": "1032",
+		  "language": "Greek"
+		},
+		{
+		  "languagecode": "1033",
+		  "language": "English (US)"
+		},
+		{
+		  "languagecode": "1036",
+		  "language": "French"
+		},
+		{
+		  "languagecode": "1040",
+		  "language": "Italian"
+		},
+		{
+		  "languagecode": "1041",
+		  "language": "Japanese"
+		},
+		{
+		  "languagecode": "1042",
+		  "language": "Korean"
+		},
+		{
+		  "languagecode": "1045",
+		  "language": "Polish"
+		},
+		{
+		  "languagecode": "1046",
+		  "language": "Portuguese (Brazil)"
+		},
+		{
+		  "languagecode": "1048",
+		  "language": "Romanian"
+		},
+		{
+		  "languagecode": "1049",
+		  "language": "Russian"
+		},
+		{
+		  "languagecode": "1051",
+		  "language": "Slovak"
+		},
+		{
+		  "languagecode": "1055",
+		  "language": "Turkish"
+		},
+		{
+		  "languagecode": "1058",
+		  "language": "Ukrainian"
+		},
+		{
+		  "languagecode": "2052",
+		  "language": "Chinese (Simplified)"
+		},
+		{
+		  "languagecode": "2057",
+		  "language": "English (UK)"
+		},
+		{
+		  "languagecode": "2058",
+		  "language": "Spanish (Mexico)"
+		},
+		{
+		  "languagecode": "3082",
+		  "language": "Spanish (Spain)"
+		}
+	]
+}
