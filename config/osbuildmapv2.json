@@ -1,119 +1,104 @@
 {
-	"Version":"1",
-	"Windows10": {
-      "builds": [
+	"WindowsVersions": [
 		{
-          "name": "1507",
-          "buildnumber": "10.0.10240",
+		  "name": "1507",
+		  "buildnumber": "10.0.10240",
 		  "adbuildnumber":"10.0 (10240)"
-        },
+		},
 		{
-          "name": "1511",
-          "buildnumber": "10.0.10586",
+		  "name": "1511",
+		  "buildnumber": "10.0.10586",
 		  "adbuildnumber":"10.0 (10586)"
-        },
+		},
 		{
-          "name": "1607",
-          "buildnumber": "10.0.14393",
+		  "name": "1607",
+		  "buildnumber": "10.0.14393",
 		  "adbuildnumber":"10.0 (14393)"
-        },
+		},
 		{
-          "name": "1703",
-          "buildnumber": "10.0.15063",
+		  "name": "1703",
+		  "buildnumber": "10.0.15063",
 		  "adbuildnumber":"10.0 (15063)"
-        },
+		},
 		{
-          "name": "1709",
-          "buildnumber": "10.0.16299",
+		  "name": "1709",
+		  "buildnumber": "10.0.16299",
 		  "adbuildnumber":"10.0 (16299)"
-        },
+		},
 		{
-          "name": "1803",
-          "buildnumber": "10.0.17134",
+		  "name": "1803",
+		  "buildnumber": "10.0.17134",
 		  "adbuildnumber":"10.0 (17134)"
-        },
+		},
 		{
-          "name": "1809",
-          "buildnumber": "10.0.17763",
+		  "name": "1809",
+		  "buildnumber": "10.0.17763",
 		  "adbuildnumber":"10.0 (17763)"
-        },
+		},
 		{
-          "name": "1903",
-          "buildnumber": "10.0.18362",
+		  "name": "1903",
+		  "buildnumber": "10.0.18362",
 		  "adbuildnumber":"10.0 (18362)"
-        },
+		},
 		{
-          "name": "1909",
-          "buildnumber": "10.0.18363",
+		  "name": "1909",
+		  "buildnumber": "10.0.18363",
 		  "adbuildnumber":"10.0 (18363)"
-        },
-        {
-          "name": "2004",
-          "buildnumber": "10.0.19041",
-		  "adbuildnumber":"10.0 (19041)"
-        },
-        {
-          "name": "20H2",
-          "buildnumber": "10.0.19042",
-		  "adbuildnumber":"10.0 (19042)"
-        },
-        {
-          "name": "21H1",
-          "buildnumber": "10.0.19043",
-		  "adbuildnumber":"10.0 (19043)"
-        },
-        {
-          "name": "21H2",
-          "buildnumber": "10.0.19044",
-		  "adbuildnumber":"10.0 (19044)"
-        },
-        {
-          "name": "22H2",
-          "buildnumber": "10.0.19045",
-		  "adbuildnumber":"10.0 (19045)"
-        }
-      ]
-    },
-    "Windows11": {
-      "builds": [
-        {
-          "name": "21H2",
-          "buildnumber": "10.0.22000",
-		  "adbuildnumber":"10.0 (22000)"
-        },
-        {
-          "name": "22H2",
-          "buildnumber": "10.0.22621",
-		  "adbuildnumber":"10.0 (22621)"
-        },
+		},
 		{
-          "name": "23H2",
-          "buildnumber": "10.0.22631",
+		  "name": "2004",
+		  "buildnumber": "10.0.19041",
+		  "adbuildnumber":"10.0 (19041)"
+		},
+		{
+		  "name": "20H2",
+		  "buildnumber": "10.0.19042",
+		  "adbuildnumber":"10.0 (19042)"
+		},
+		{
+		  "name": "21H1",
+		  "buildnumber": "10.0.19043",
+		  "adbuildnumber":"10.0 (19043)"
+		},
+		{
+		  "name": "21H2",
+		  "buildnumber": "10.0.19044",
+		  "adbuildnumber":"10.0 (19044)"
+		},
+		{
+		  "name": "22H2",
+		  "buildnumber": "10.0.19045",
+		  "adbuildnumber":"10.0 (19045)"
+		},
+		{
+		  "name": "21H2",
+		  "buildnumber": "10.0.22000",
+		  "adbuildnumber":"10.0 (22000)"
+		},
+		{
+		  "name": "22H2",
+		  "buildnumber": "10.0.22621",
+		  "adbuildnumber":"10.0 (22621)"
+		},
+		{
+		  "name": "23H2",
+		  "buildnumber": "10.0.22631",
 		  "adbuildnumber":"10.0 (22631)"
-        }
-      ]
-    },
-    "Windows7": {
-      "builds": [
-        {
-          "name": "Win7 SP0",
-          "buildnumber": "6.1.7600",
+		},
+		{
+		  "name": "Win7 SP0",
+		  "buildnumber": "6.1.7600",
 		  "adbuildnumber":"6.1 (7600)"
-        },
-        {
-          "name": "Win7 SP1",
-          "buildnumber": "6.1.7601",
+		},
+		{
+		  "name": "Win7 SP1",
+		  "buildnumber": "6.1.7601",
 		  "adbuildnumber":"6.1 (7601)"
-        }
-      ]
-    },
-    "Windows8": {
-      "builds": [
-        {
-          "name": "Win8.1",
-          "buildnumber": "6.3.9600",
+		},
+		{
+		  "name": "Win8.1",
+		  "buildnumber": "6.3.9600",
 		  "adbuildnumber":"6.3 (9600)"
-        }
-      ]
-    }
-  }
+		}
+	]
+}
